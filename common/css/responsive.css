@@ -23,12 +23,17 @@
   }
 
   .hero-inner {
-    left: 24px;
-    bottom: 236px;
- }
+  left: 24px;
+  bottom: 170px;
+  top: auto;
+  transform: none;
+}
 
  .hero-title {
-  font-size: 38px;
+  font-size: 28px;
+  line-height: 1.15;
+  letter-spacing: 0.03em;
+  white-space: nowrap;
  }
 
  .hero-sub {
