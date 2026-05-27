@@ -14,6 +14,10 @@
     padding: 0 28px;
   }
 
+  .header {
+  display: none;
+}
+  
   .header-nav ul {
     display: none;
 }
