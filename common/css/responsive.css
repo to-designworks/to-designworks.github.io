@@ -1,0 +1,151 @@
+@media screen and (max-width: 767px) {
+  .section-title {
+    margin-bottom: 32px;
+    font-size: 16px;
+    letter-spacing: 0.16em;
+  }
+
+  section {
+    padding: 60px 0;
+  }
+
+  .section-inner {
+    width: 100%;
+    padding: 0 28px;
+  }
+
+  .header-nav ul {
+    display: none;
+}
+
+  .hero {
+    padding: 0;
+  }
+
+  .hero-inner {
+    left: 24px;
+    bottom: 236px;
+ }
+
+ .hero-title {
+  font-size: 38px;
+ }
+
+ .hero-sub {
+    margin-top: 4px;
+    font-size: 12px;
+    letter-spacing: 0.12em;
+ }
+
+  .works {
+    padding: 80px 0 40px;
+  }
+
+  .works-list {
+    display: block;
+  }
+
+  .works-number {
+    margin-bottom: 8px;
+ }
+
+  .works-title {
+    margin-bottom: 12px;
+ }
+
+ .works-text {
+    margin-bottom: 24px;
+ }
+
+  .works-item {
+    margin-bottom: 56px;
+  }
+
+  .works-item:last-child .works-image {
+    height: 280px;
+    object-fit: cover;
+  }
+
+  .works-image-link,
+  .works-image {
+    display: block;
+    width: 100%;
+  }
+
+  .works-image {
+    height: auto;
+  }
+
+  .profile-grid {
+    display: block;
+  }
+
+  .profile {
+    padding-top: 24px;
+  }
+
+  .about {
+    padding-top: 0;
+  }
+
+  .about-text {
+    max-width: 260px;
+    font-size: 13px;
+    line-height: 2.1;
+    letter-spacing: 0.04em;
+    margin-left: 20px;
+    margin-bottom: 40px;
+  }
+
+  .about-image {
+    width: 40%;
+    margin-top: 8px;
+    margin-left: auto;
+    display: block;
+    transform: translateX(-8px);
+  }
+
+  .skills {
+    padding-top: 32px;
+  }
+
+  .skills-list li {
+    margin-bottom: 10px;
+  }
+
+  .skills-list {
+    margin-left: 20px;
+  }
+
+  .contact {
+    padding: 64px 0 48px;
+  }
+
+  .contact-row {
+    display: block;
+    margin-left: 0;
+    gap: 0;
+  }
+  .contact-text {
+    margin-left: 20px;
+    margin-bottom: 32px;
+    line-height: 1.8;
+  }
+
+  .contact-btn {
+    margin-left: 20px;
+    margin-top: 4px;
+  }
+
+  .footer {
+    background-size: cover;
+    background-position: center;
+    min-height: 180px;
+  }
+
+  .footer-inner {
+    padding-top: 24px;
+    padding-bottom: 20px;
+  }
+
+}
