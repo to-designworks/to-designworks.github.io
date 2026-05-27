@@ -67,11 +67,6 @@
     margin-bottom: 56px;
   }
 
-  .works-item:last-child .works-image {
-    height: 280px;
-    object-fit: cover;
-  }
-
   .works-image-link,
   .works-image {
     display: block;
