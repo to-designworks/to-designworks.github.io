@@ -81,6 +81,12 @@
     height: auto;
   }
 
+  .works-title-link,
+.works-image-link {
+  position: relative;
+  z-index: 10;
+}
+
   .profile-grid {
     display: block;
   }
