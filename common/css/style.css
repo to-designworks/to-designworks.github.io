@@ -159,6 +159,13 @@ section {
   color: #4a4a4a;
 }
 
+.works-skill{
+  margin-top: 12px;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  opacity: .7;
+}
+
 .works-image {
   width: 100%;
   padding-top: 0;
