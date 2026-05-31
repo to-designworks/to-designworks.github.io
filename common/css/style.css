@@ -152,18 +152,19 @@ section {
 
 .works-text {
   min-height: 4em;
-  margin-bottom: 40px;
+  margin-bottom: 12px;
   font-family: "Noto Serif JP", serif;
   font-size: 13px;
   line-height: 2;
   color: #4a4a4a;
 }
 
-.works-skill{
-  margin-top: 12px;
-  font-size: 12px;
-  letter-spacing: 0.08em;
-  opacity: .7;
+.works-skill {
+  margin-top: 8px;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  opacity: 0.6;
+  text-transform: uppercase;
 }
 
 .works-image {
