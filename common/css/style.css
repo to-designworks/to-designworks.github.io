@@ -159,12 +159,12 @@ section {
   color: #4a4a4a;
 }
 
-.works-skill {
-  margin-top: 12px;
+.works-skill{
+  margin-top: 8px;
   margin-bottom: 12px;
-  font-size: 11px;
-  letter-spacing: 0.12em;
-  opacity: 0.6;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  opacity: .7;
 }
 
 .works-image {
